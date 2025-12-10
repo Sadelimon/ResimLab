@@ -22,7 +22,7 @@ Bu proje, görüntü işlemeyi matematiksel ve algoritmik temellerle uygular:
 1.  Projeyi klonlayın veya indirin.
 2.  `ResimLab.sln` dosyasını **Visual Studio 2022** ile açın.
 3.  Projeyi derleyin (Build).
-4.  *Önemli: Yüz tanıma özelliğinin çalışması için `haarcascade.xml` dosyasının derleme klasöründe (`bin/Debug/net6.0-windows/`) olduğundan emin olun. (Proje ayarlarında otomatik kopyalama aktiftir).
+4.  *Önemli*: Yüz tanıma özelliğinin çalışması için `haarcascade.xml` dosyasının derleme klasöründe (`bin/Debug/net6.0-windows/`) olduğundan emin olun. (Proje ayarlarında otomatik kopyalama aktiftir).
 
 ##  Lisans 
 
