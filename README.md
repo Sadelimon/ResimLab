@@ -6,10 +6,10 @@
 
 Bu proje, görüntü işlemeyi matematiksel ve algoritmik temellerle uygular:
 
-* ** Yapay Zeka (ML):** Haar Cascade algoritması kullanarak fotoğraflardaki yüzleri tespit eder ve işaretler.
-* ** Piksel Matematiği:** Lineer dönüşümlerle Parlaklık ve Kontrast ayarı.
-* ** Konvolüsyon Filtreleri:** Matris çekirdekleri (Kernel) ile Keskinleştirme (Sharpen), Bulanıklaştırma (Blur) ve Gri Tonlama.
-* ** Geometrik Dönüşümler:** Döndürme (Rotation) ve Aynalama (Flip).
+*  Yapay Zeka (ML): Haar Cascade algoritması kullanarak fotoğraflardaki yüzleri tespit eder ve işaretler.
+*  Piksel Matematiği: Lineer dönüşümlerle Parlaklık ve Kontrast ayarı.
+*  Konvolüsyon Filtreleri: Matris çekirdekleri (Kernel) ile Keskinleştirme (Sharpen), Bulanıklaştırma (Blur) ve Gri Tonlama.
+*  Geometrik Dönüşümler: Döndürme (Rotation) ve Aynalama (Flip).
 
 ##  Kullanılan Teknolojiler
 
